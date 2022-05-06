@@ -11,6 +11,8 @@
         :class="['my-dialog', { 'my-is-fullscreen': fullscreen, 'my-dialog--center': center }, customClass]"
         :style="style"
       >
+      <p></p>
+      <p></p>
         <div class="my-dialog__header">
           <slot name="title">
             <span class="my-dialog__title">{{ title }}</span>
