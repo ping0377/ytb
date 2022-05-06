@@ -2,6 +2,7 @@
   <div>
     <div class="first">
       <h1>运费设置</h1>
+      <h2></h2>
     </div>
   </div>
 </template>
